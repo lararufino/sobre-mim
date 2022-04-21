@@ -1,0 +1,36 @@
+body{
+    background-color: #C3D0D7;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    display: flex;
+    margin: 10px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.resposta {
+    text-align: center;
+    background-color: #f9d9d9;
+    width: 25%;
+    height: 25px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+}

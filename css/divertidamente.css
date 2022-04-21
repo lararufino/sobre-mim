@@ -1,0 +1,77 @@
+body{
+    background-color: #C3D0D7;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li {
+    display: flex;
+    margin: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+.divertidamentes {
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0px 120px;
+}
+
+.texto1 {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0px 80px;
+}
+
+.momentos {
+    margin-right: 20px;
+}
+
+
+
+#meus {
+    padding: 0px 45px;
+}
+
+#cara {
+    padding: 0px 45px;
+}
+
+#quando {
+    padding: 0px 45px;
+}
+
+#certo {
+    padding: 0px 45px;
+}
+
+#depois {
+    padding: 0px 50px;
+}
+
+#fico {
+    padding: 0px 50px;
+}
+
+#frio {
+    padding: 0px 50px;
+}
+
+.frase1 {
+    margin-left: 10px;
+    margin-right: 10px;
+}

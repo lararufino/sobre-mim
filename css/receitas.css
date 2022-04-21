@@ -1,0 +1,21 @@
+body {
+    background-color: #C3D0D7;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li {
+    display: flex;
+    margin: 10px;
+}
+

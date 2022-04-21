@@ -1,0 +1,47 @@
+body{
+    background-color: #C3D0D7;
+    margin: 0;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.faixa {
+    background-color: #c4c4c4;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.resposta {
+    text-align: center;
+    background-color: #f9d9d9;
+    width: 25%;
+    height: 25px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resp {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.d {
+    padding-top: 15px;
+}
+
+.pergunta {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
